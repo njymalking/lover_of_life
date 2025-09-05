@@ -9,10 +9,19 @@ A brief description of what this project does and who it's for
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+## 🚀 About Me
+I'm a full stack developer...
 
+
+
+## Demo
+
+inter this link to view my website
 ## Installation
 
 Install my-project with npm
+[Demo](https://njymalking.github.io/lover_of_life/)
+
 
 ```bash
   npm install my-project
@@ -87,7 +96,4 @@ To run this project, you will need to add the following environment variables to
 Takes two numbers and returns the sum.
 
 
-## Demo
-
-Insert gif or link to demo
 
